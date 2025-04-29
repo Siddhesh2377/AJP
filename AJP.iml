@@ -7,15 +7,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="apache-tomcat-9.0" level="project" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.104/lib" />
+          <root url="file://$MODULE_DIR$/tomcat/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.104/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/tomcat/lib" recursive="false" />
       </library>
     </orderEntry>
   </component>
